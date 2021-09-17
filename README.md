@@ -1,4 +1,4 @@
-##Cryptozombies deployed by Truffle on a private blockchain on Ganache
+## Cryptozombies deployed by Truffle on a private blockchain on Ganache
 
 CryptoZombies is an interactive school that teaches you all things technical about blockchains. Throughout the learning process I wrote the contracts to make the zombies game. 
 
