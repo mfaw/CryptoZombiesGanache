@@ -6,7 +6,7 @@ pragma solidity >=0.8.0 <0.9.0;
 library SafeMath {
 
   /**
-  * @dev Multiplies two numbers, throws on overflow.
+  * @dev Multiplies two numbers, throws on overflow...
   */
   function mul(uint256 a, uint256 b) internal pure returns (uint256) {
     if (a == 0) {
